@@ -1,5 +1,5 @@
 # What is this
-This set of scripts downloads a JSON file from a website containing the fields Celcius and Farenheit and appends 
+This set of scripts downloads a JSON file from a website containing the fields Celsius and Fahrenheit and appends 
 the fields and the time into a CSV file, which can then be opened in Excel/Whatever. This was only tested
 to work on Windows 10, and does not work on any non-Windows OS due to use of powershell. 
 
